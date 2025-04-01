@@ -1,2 +1,2 @@
 # README
-Folder generator thougt for Animes
+Folder generator thought for Animes
