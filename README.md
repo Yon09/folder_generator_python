@@ -1,2 +1,2 @@
-# folder_generator_python
+# README
 Folder generator thougt for Animes
